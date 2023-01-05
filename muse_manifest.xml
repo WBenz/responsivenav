@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672926172669">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.menu.com" resolutions="1x" timestamp="1672926704016">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index"/>
     <file name="anime-wallpaper.jpg" crc="146625830" ref="tablet>index:phone>index">
@@ -20,16 +20,16 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3831726379" ref="tablet>index"/>
+      <file name="index.css" crc="4287785293" ref="tablet>index"/>
       <file name="master_a-gabarit.css" crc="441194368" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3982793082" seo="true" mt="1672926119434" redirect="true"/>
+    <file name="index.html" crc="3970017723" seo="true" mt="1672926690140" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4167321575" ref="phone>index"/>
+      <file name="index.css" crc="52589681" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="495336705" seo="true" mt="1672926101423" redirect="true"/>
+    <file name="index.html" crc="528233755" seo="true" mt="1672926678408" redirect="true"/>
   </folder>
   <file name="index.html" crc="176016496" seo="true" mt="1672925096271" redirect="true"/>
 </manifest>
